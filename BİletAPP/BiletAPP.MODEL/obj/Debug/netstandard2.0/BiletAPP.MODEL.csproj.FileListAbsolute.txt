@@ -1,0 +1,10 @@
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\bin\Debug\netstandard2.0\BiletAPP.MODEL.deps.json
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\bin\Debug\netstandard2.0\BiletAPP.MODEL.dll
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\bin\Debug\netstandard2.0\BiletAPP.MODEL.pdb
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\obj\Debug\netstandard2.0\BiletAPP.MODEL.csproj.AssemblyReference.cache
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\obj\Debug\netstandard2.0\BiletAPP.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\obj\Debug\netstandard2.0\BiletAPP.MODEL.AssemblyInfoInputs.cache
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\obj\Debug\netstandard2.0\BiletAPP.MODEL.AssemblyInfo.cs
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\obj\Debug\netstandard2.0\BiletAPP.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\obj\Debug\netstandard2.0\BiletAPP.MODEL.dll
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.MODEL\obj\Debug\netstandard2.0\BiletAPP.MODEL.pdb

@@ -1,0 +1,15 @@
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\bin\Debug\netstandard2.0\BiletAPP.BLL.deps.json
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\bin\Debug\netstandard2.0\BiletAPP.BLL.dll
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\bin\Debug\netstandard2.0\BiletAPP.BLL.pdb
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\bin\Debug\netstandard2.0\BiletAPP.MODEL.dll
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\bin\Debug\netstandard2.0\BiletAPP.MODEL.pdb
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\obj\Debug\netstandard2.0\BiletAPP.BLL.csproj.AssemblyReference.cache
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\obj\Debug\netstandard2.0\BiletAPP.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\obj\Debug\netstandard2.0\BiletAPP.BLL.AssemblyInfoInputs.cache
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\obj\Debug\netstandard2.0\BiletAPP.BLL.AssemblyInfo.cs
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\obj\Debug\netstandard2.0\BiletAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\obj\Debug\netstandard2.0\BiletAPP.BLL.csproj.CopyComplete
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\obj\Debug\netstandard2.0\BiletAPP.BLL.dll
+C:\Users\kaans\source\repos\BİletAPP\BiletAPP.BLL\obj\Debug\netstandard2.0\BiletAPP.BLL.pdb
